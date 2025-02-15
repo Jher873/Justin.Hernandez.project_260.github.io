@@ -25,7 +25,7 @@ group :jekyll_plugins do
 
     gem 'classifier-reborn'  # used for content categorization during the build
 end
-
+    gem 'jekyll-jupyter-notebook'
 # Gems for development or external data fetching (outside :jekyll_plugins)
 group :other_plugins do
     gem 'css_parser'
